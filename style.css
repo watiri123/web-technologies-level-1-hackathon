@@ -1,0 +1,39 @@
+h1 {
+    color: blue;
+  }
+  
+  .info {
+    color: red;
+    font-size: 15px;
+  }
+  
+  .image-section {
+    margin-top: 20px;
+  }
+  
+  .image-section img {
+    border: 5px solid green;
+  }
+  
+  .registration-form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .registration-form h2 {
+    text-align: center;
+  }
+  
+  .registration-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .registration-form input[type="text"],
+  .registration-form input[type="email"],
+  .registration-form input[type="tel"],
+  .registration-form input[type="number"],
+  .registration-form select {
+    width: 1
+  }  
